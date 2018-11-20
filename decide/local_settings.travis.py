@@ -12,7 +12,7 @@ MODULES = [
     'visualizer',
     'voting',
 ]
-
+ 
 APIS = {
     'authentication': 'http://localhost:8000',
     'base': 'http://localhost:8000',
